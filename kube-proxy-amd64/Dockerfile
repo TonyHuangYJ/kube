@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-proxy-amd64:v1.8.1
+FROM gcr.io/google_containers/kube-proxy-amd64:v1.8.2
 #MAINTAINER tony <hyujun@gmail.com>
