@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/hyperkube-amd64:v1.9.3
+FROM gcr.io/google_containers/hyperkube-amd64:v1.9.6
 #MAINTAINER tony <hyujun@gmail.com>
