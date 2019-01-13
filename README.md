@@ -1,3 +1,3 @@
 ## docker-library
 
-kubernetes images
+kubernetes images from gcr.io/google_containers/...
