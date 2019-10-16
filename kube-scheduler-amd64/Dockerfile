@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-scheduler-amd64:v1.16.1
+FROM gcr.io/google_containers/kube-scheduler-amd64:v1.13.12
 #MAINTAINER tony <hyujun@gmail.com>
