@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-controller-manager-amd64:v1.17.3
+FROM gcr.io/google_containers/kube-controller-manager-amd64:v1.15.11
 #MAINTAINER tony <hyujun@gmail.com>
