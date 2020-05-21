@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:v1.15.12
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.16.10
 #MAINTAINER tony <hyujun@gmail.com>
